@@ -30,6 +30,8 @@ Usage:
 
 This code offers a versatile platform for experimenting with MLP neural networks and can be applied to various classification tasks, including fraud detection, Optdigits recognition, and more.
 
+===================================================================================================================
+
 Português:
 Rede Neural Multi-Layer Perceptron (MLP) para Detecção de Fraudes e Classificação Optdigits
 
