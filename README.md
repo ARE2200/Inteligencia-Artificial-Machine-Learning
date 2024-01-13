@@ -1,7 +1,8 @@
 English:
-Multi-Layer Perceptron (MLP) Neural Network for Fraud Detection and Optdigits Classification
+Multi-Layer Perceptron (MLP) Neural Network for Fraud Detection, Optdigits Classification and outhers
 
-This Python code provides a flexible implementation of a Multi-Layer Perceptron (MLP) neural network for two potential applications: fraud detection and Optdigits classification. The code includes a graphical user interface (GUI) built with the Tkinter library, allowing users to specify parameters, load data, and train the network.
+This Python code provides a flexible implementation of a Multi-Layer Perceptron (MLP) neural network for potential applications: fraud detection, Optdigits classification and outhers. The code includes a graphical user interface (GUI) built with the Tkinter library, allowing users to specify parameters, load data, and train the network.
+
 Key Features:
 
     MLP Network: The code defines an MLP neural network with user-configurable input size, hidden layer size, output size, and learning rate.
@@ -19,6 +20,7 @@ Applications:
 Other Applications:
 
 This code offers a versatile platform for experimenting with MLP neural networks and can be applied to various classification tasks beyond fraud detection and Optdigits classification. While it has been used for these specific purposes, it can be adapted for a wide range of machine learning and classification applications.
+
 Usage:
 
     Launch the GUI by running the script.
@@ -28,14 +30,14 @@ Usage:
     Monitor the training progress and view error rate plots.
     The code also provides a "Créditos" (Credits) button to acknowledge the authors.
 
-This code offers a versatile platform for experimenting with MLP neural networks and can be applied to various classification tasks, including fraud detection, Optdigits recognition, and more.
+========================================================================
 
-====================================================================================
 
 Português:
-Rede Neural Multi-Layer Perceptron (MLP) para Detecção de Fraudes e Classificação Optdigits
+Rede Neural Multi-Layer Perceptron (MLP) para Detecção de Fraudes, Classificação Optdigits e outros
 
-Este código em Python oferece uma implementação flexível de uma rede neural Multi-Layer Perceptron (MLP) para duas possíveis aplicações: detecção de fraudes e classificação Optdigits. O código inclui uma interface gráfica de usuário (GUI) construída com a biblioteca Tkinter, permitindo que os usuários especifiquem parâmetros, carreguem dados e treinem a rede.
+Este código em Python oferece uma implementação flexível de uma rede neural Multi-Layer Perceptron (MLP) para: detecção de fraudes, classificação Optdigits e outros. O código inclui uma interface gráfica de usuário (GUI) construída com a biblioteca Tkinter, permitindo que os usuários especifiquem parâmetros, carreguem dados e treinem a rede.
+
 Principais Características:
 
     Rede MLP: O código define uma rede neural MLP com tamanho de entrada, tamanho da camada oculta, tamanho de saída e taxa de aprendizado configuráveis pelo usuário.
@@ -62,4 +64,3 @@ Uso:
     Monitore o progresso do treinamento e visualize os gráficos de taxa de erro.
     O código também fornece um botão "Créditos" para reconhecer os autores.
 
-Este código oferece uma plataforma versátil para experimentar com redes neurais MLP e pode ser aplicado a várias tarefas de classificação, incluindo detecção de fraudes, reconhecimento de Optdigits e muito mais.
